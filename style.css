@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(211, 151, 102);
+    font-size: 40px;
+}
+ image {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    object-fit: cover;
+    border: 3px solid black;
+    
+}
