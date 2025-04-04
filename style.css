@@ -5,11 +5,11 @@ body {
     background-color: rgb(211, 151, 102);
     font-size: 40px;
 }
- image {
+ img {
     width: 150px;
     height: 150px;
     border-radius: 5px;
     object-fit: cover;
     border: 3px solid black;
-    
+
 }
