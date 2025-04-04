@@ -9,7 +9,6 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 5px;
-    object-fit: cover;
-    border: 3px solid black;
-
+    box-shadow:  0 4px 8px rgba(red, green, blue, alpha);
+    border: 0cap;
 }
